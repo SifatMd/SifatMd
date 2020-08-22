@@ -2,7 +2,7 @@
 
 I work at the intersection of Computer Vision and Security. I will be starting my PhD at Virginia Tech University.
 
-![SifatMd's github stats](https://github-readme-stats.vercel.app/api?username=SifatMd&count_private=true&show_icons=true&theme=merko&hide_rank=false)
+![SifatMd's github stats](https://github-readme-stats.vercel.app/api?username=SifatMd&count_private=true&show_icons=true&theme=algolia&hide_rank=false)
 
 <!--
 **SifatMd/SifatMd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
