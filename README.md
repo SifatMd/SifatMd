@@ -1,4 +1,9 @@
-![SifatMd's github stats](https://github-readme-stats.vercel.app/api?username=SifatMd&count_private=true&show_icons=true)
+### 👋 Hi, I'm Sifat.
+
+I work at the intersection of Computer Vision and Security. I will be starting my PhD at Virginia Tech University.
+
+![SifatMd's github stats](https://github-readme-stats.vercel.app/api?username=SifatMd&count_private=true&show_icons=true&theme=radical&hide_rank=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SifatMd&layout=compact)
 
 <!--
 **SifatMd/SifatMd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
