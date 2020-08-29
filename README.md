@@ -6,10 +6,9 @@ I work at the intersection of Computer Vision and Security. I will be starting m
 
 - 📫 You can find me at:
   - :office: [LinkedIn](https://www.linkedin.com/in/sifat-muhammad-abdullah-4619ba148/)
-  - 💬 [Twitter](https://twitter.com/SifatMdAbdullah)
-<!--  
   - :bulb: [Medium articles](https://medium.com/@sifat.abdullah577)
--->
+  - 💬 [Twitter](https://twitter.com/SifatMdAbdullah)
+
 ![SifatMd's github stats](https://github-readme-stats.vercel.app/api?username=SifatMd&count_private=true&show_icons=true&theme=algolia&hide_rank=false)
 
 <!--
