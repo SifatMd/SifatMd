@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Sifat
 
-I work at the intersection of Machine Learning and Security. I will be starting my PhD at Virginia Tech University.
+I am a PhD Student at Virginia Tech. I work at the intersection of Machine Learning and Security.
 - 🔭 I love learning data science, programming, reading research papers and various books
 - 🌱 I’m trying to learn and grow every day
 
